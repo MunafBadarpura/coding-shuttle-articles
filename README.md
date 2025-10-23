@@ -104,7 +104,8 @@
 - [Mastering Prompt Engineering for Developers: 6 Essential Prompting Techniques (Part 2)](https://www.codingshuttle.com/blogs/mastering-prompt-engineering-for-developers-6-essential-prompting-techniques-part-1-1)
 - [The Developer's Guide to Prompt Engineering: Get Better Code from Your AI](https://www.codingshuttle.com/blogs/the-developer-s-guide-to-prompt-engineering-get-better-code-from-your-ai)
 - [Your Simple Guide to Spring AI: Build Your First GenAI App with Spring Boot](https://www.codingshuttle.com/blogs/your-simple-guide-to-spring-ai-build-your-first-gen-ai-app-with-spring-boot)
-
+- [Your Simple Guide to RAG in Spring AI: Give Your App a "Memory"](https://www.codingshuttle.com/blogs/your-simple-guide-to-rag-in-spring-ai-give-your-app-a-memory)
+- [Your Simple Guide to MCP Servers: Give Your AI "Superpowers" with Spring Boot](https://www.codingshuttle.com/blogs/your-simple-guide-to-mcp-servers-give-your-ai-superpowers-with-spring-boot)
 ---
 
 ## Low Level Design (LLD)
